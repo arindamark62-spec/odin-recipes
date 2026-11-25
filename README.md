@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes this project helped me understand better how html works and me solidify my knoweledge on it
